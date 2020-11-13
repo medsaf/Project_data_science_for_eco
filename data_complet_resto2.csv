@@ -1,0 +1,87 @@
+,Chef,Établissement,Localité,Département,Région,naissance,nationalité,distinction,age,nb_distinction,nb_star_chef
+0,Christian Sinicropi,La Palme d'Or (hôtel Martinez),Cannes,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,1971-09-13 00:00:00.000000000,Français,"['2 étoiles au Guide Michelin', '18/20 au Gault-Millau']",49.0,2.0,2.0
+1,Arnaud Faye,La Chèvre d'Or,Èze,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,,,,,
+2,Bruno  Cirino,Hostellerie Jérôme,La Turbie,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,,,,,
+3,Bruno Oger,Villa Archange,Le Cannet,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,1966-05-09 00:00:00.000000000,Français,['2 étoiles au Guide Michelin'],54.0,1.0,2.0
+4,Mickaël et Gaël Tourteaux,Flaveur,Nice,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,,,,,
+5,Franck Putelat,La Table de Franck Putelat,Carcassonne,11 Aude,Occitanie,,,,,,
+6,Lionel Giraud,La Table Saint-Crescent,Narbonne,11 Aude,Occitanie,,,,,,
+7,Sébastien Bras,Bras,Laguiole,12 Aveyron,Occitanie,1946-11-04 00:00:00.000000000,Français,,74.0,1.0,2.0
+8,Jean-Luc Rabanel,L'Atelier de Jean Luc Rabanel,Arles,13 Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,1964-01-14 00:00:00.000000000,Français,['Chevalier des Arts et des Lettres'],56.0,2.0,2.0
+9,Dimitri Droisneau,La Villa Madie,Cassis,13 Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,,,,,
+10,Alexandre Mazzia,AM par Alexandre Mazzia,Marseille,13 Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,1976-04-30 00:00:00.000000000,Français,,44.0,1.0,2.0
+11,Alexandre Bourdas,Sa.Qua.Na,Honfleur,14 Calvados,Normandie,,,,,,
+12,Serge Vieira,Serge Vieira,Chaudes-Aigues,15 Cantal,Auvergne-Rhône-Alpes,,,,,,
+13,Fabio Bragagnolo,Casadelmar,Porto-Vecchio,2A Corse-du-Sud,Corse,,,,,,
+14,William Frachot,Hostellerie du Chapeau Rouge,Dijon,21 Côte-d'Or,Bourgogne-Franche-Comté,,,,,,
+15,Patrick Bertron,Le Relais Bernard Loiseau,Saulieu,21 Côte-d'Or,Bourgogne-Franche-Comté,1962-01-22 00:00:00.000000000,Français,,58.0,1.0,2.0
+16,Jacques & Jean-Paul Bertrand,Les Cèdres,Granges-les-Beaumont,26 Drôme,Auvergne-Rhône-Alpes,,,,,,
+17,Olivier Bellin,Auberge des Glazicks,Plomodiern,29 Finistère,région Bretagne,1971-08-08 00:00:00.000000000,Français,,49.0,1.0,2.0
+18,Michel Kayser,Alexandre,Garons,30 Gard,Occitanie,,,,,,
+19,Michel Sarran,Michel Sarran,Toulouse,31 Haute-Garonne,Occitanie,1961-04-18 00:00:00.000000000,Français,,59.0,1.0,2.0
+20,Pierre Lambinon,Py-r,Toulouse,31 Haute-Garonne,Occitanie,,,,,,
+21,Bernard Bach,Le Puits Saint-Jacques,Pujaudran,32 Gers,Occitanie,1961-03-16 00:00:00.000000000,Français,['2 étoiles au Guide Michelin'],59.0,1.0,2.0
+22,Gordon Ramsay,Le  Pressoir d'Argent,Bordeaux,33 Gironde,Nouvelle-Aquitaine,1966-11-08 00:00:00.000000000,Britannique,,54.0,1.0,2.0
+23,Pierre Gagnaire,La  Grande Maison de Bernard Magrez,Bordeaux,33 Gironde,Nouvelle-Aquitaine,1950-04-09 00:00:00.000000000,Français,,70.0,1.0,3.0
+24,Stéphane Carrade,Le Skiff Club,La Teste-de-Buch,33 Gironde,Nouvelle-Aquitaine,,,,,,
+25,Nicolas Masse,La Grand'Vigne,Martillac,33 Gironde,Nouvelle-Aquitaine,,,,,,
+26,Ronan  Kervarrec,Hostellerie  de Plaisance,Saint-Emilion,33 Gironde,Nouvelle-Aquitaine,,,,,,
+27,Hugo Roellinger,Coquillage,Cancale,35 Ille-et-Vilaine,région Bretagne,1988-01-01 00:00:00.000000000,Français,,32.0,1.0,2.0
+28,Christophe Aribert,Maison Aribert,Uriage-les-Bains,38 Isère,Auvergne-Rhône-Alpes,1971-04-25 00:00:00.000000000,Français,,49.0,1.0,2.0
+29,Patrick Henriroux,La Pyramide,Vienne,38 Isère,Auvergne-Rhône-Alpes,1958-11-20 00:00:00.000000000,Français,['2 étoiles au Guide Michelin'],62.0,1.0,2.0
+30,Steven Naessens,Maison Jeunet,Arbois,39 Jura,Bourgogne-Franche-Comté,,,,,,
+31,Jean Coussau,Relais de la Poste,Magescq,40 Landes,Nouvelle-Aquitaine,,,,,,
+32,Christophe Hay,La Maison d'à côté,Montlivault,41 Loir-et-Cher,Centre-Val de Loire,1977-06-13 00:00:00.000000000,Français,,43.0,1.0,2.0
+33,Rémy Giraud,Domaine des Hauts de Loire,Onzain,41 Loir-et-Cher,Centre-Val de Loire,,,,,,
+34,Mathieu Guibert,Anne de Bretagne,La Plaine-sur-Mer,44 Loire-Atlantique,Pays de la Loire,,,,,,
+35,Philippe Mille,Le Parc (Les Crayères),Reims,51 Marne,Grand Est,,,,,,
+36,Kazuyuki Tanaka,Racine,Reims,51 Marne,Grand Est,,,,,,
+37,Marc Meurin,Le Château de Beaulieu,Busnes,62 Pas-de-Calais,Hauts-de-France,1953-01-04 00:00:00.000000000,Français,,67.0,1.0,2.0
+38,Alexandre Gauthier,La Grenouillère,La Madelaine-sous-Montreuil,62 Pas-de-Calais,Hauts-de-France,1979-03-26 00:00:00.000000000,Français,,41.0,1.0,2.0
+39,Xavier Beaudiment,Le Pré,Durtol,63 Puy-de-Dôme,Auvergne-Rhône-Alpes,,,,,,
+40,Pascal Bastian,Auberge du Cheval Blanc,Lembach,67 Bas-Rhin,Grand Est,1978-11-24 00:00:00.000000000,Français,,41.0,1.0,2.0
+41,Nicolas Stamm,La Fourchette des Ducs,Obernai,67 Bas-Rhin,Grand Est,,,,,,
+42,Jean-Georges  Klein,Villa René Lalique,Wingen-sur-Moder,67 Bas-Rhin,Grand Est,1950-01-01 00:00:00.000000000,Français,,70.0,1.0,2.0
+43,Jean-Yves Schillinger,JY'S,Colmar,68 Haut-Rhin,Grand Est,,,,,,
+44,Paul et Marc Haeberlin,L'Auberge de l'Ill,Illhaeusern,68 Haut-Rhin,Grand Est,1970-01-01 00:00:00.000001953,Français,,50.0,1.0,2.0
+45,Olivier Nasti,La Table d'Olivier Nasti,Kaysersberg,68 Haut-Rhin,Grand Est,1966-12-09 00:00:00.000000000,Français,,53.0,1.0,2.0
+46,Paul Bocuse,L'Auberge du Pont de Collonges,Collonges-au-Mont-d'Or,69 Rhône,Auvergne-Rhône-Alpes,1926-02-11 00:00:00.000000000,Français,,94.0,1.0,2.0
+47,Christophe Roure,Le Neuvième Art,Lyon,69 Rhône,Auvergne-Rhône-Alpes,,,,,,
+48,Takao  Takano,Takao  Takano,Lyon,69 Rhône,Auvergne-Rhône-Alpes,,,,,,
+49,Mathieu Viannay,Mère Brazier,Lyon,69 Rhône,Auvergne-Rhône-Alpes,1967-07-14 00:00:00.000000000,Français,,53.0,1.0,2.0
+50,Masafumi Hamano,Au 14 février,Saint-Amour-Bellevue,71 Saône-et-Loire,Bourgogne-Franche-Comté,,,,,,
+51,Stéphane Buron,Le Chabichou,Courchevel,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+52,Jean-Rémi Caillon,Le Kintessence,Courchevel,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+53,Pieter Riedijk,Le Montgomerie,Courchevel,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+54,Sébastien Vauxion,Sarkara,Courchevel,73 Savoie,Auvergne-Rhône-Alpes,1983-05-29 00:00:00.000000000,Français,,37.0,1.0,2.0
+55,Michaël Arnoult,Les Morainières,Jongieux,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+56,Benoit Vidal,L'Atelier D'Edmond,Val d'Isère,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+57,Marc Veyrat,La Maison des Bois,Manigod,74 Haute-Savoie,Auvergne-Rhône-Alpes,1950-05-08 00:00:00.000000000,Français,"['2 étoiles au Guide Michelin', 'Gault et Millau', ""Ordre national de la Légion d'honneur""]",70.0,3.0,2.0
+58,Julien  Gatillon,Le 1920,Megève,74 Haute-Savoie,Auvergne-Rhône-Alpes,,,,,,
+59,Anthony Bisquerra,La Table de l'Alpaga,Megève,74 Haute-Savoie,Auvergne-Rhône-Alpes,,,,,,
+60,Jean Sulpice,Auberge du père Bise - Jean Sulpice,Annecy,74 Haute-Savoie,Auvergne-Rhône-Alpes,,,,,,
+61,Yoann Conte,Restaurant Yoann Conte – Bord du Lac,Veyrier-du-Lac,74 Haute-Savoie,Auvergne-Rhône-Alpes,1974-01-01 00:00:00.000000000,Français,,46.0,1.0,2.0
+62,Guy Martin,Le Grand Véfour,Paris 1er,75 Paris,Île-de-France,1957-02-03 00:00:00.000000000,Français,,63.0,1.0,2.0
+63,Alain Ducasse,Le Meurice,Paris 1er,75 Paris,Île-de-France,1956-09-13 00:00:00.000000000,Français,"['trois étoiles au Guide Michelin', 'Chevalier de la Légion d’honneur']",64.0,2.0,3.0
+64,Nicolas Sale,Le Ritz Paris - La Table de l'Espadon,Paris 1er,75 Paris,Île-de-France,1972-07-29 00:00:00.000000000,Français,,48.0,1.0,2.0
+65,Thierry Marx,Sur Mesure par Thierry Marx,Paris 1er,75 Paris,Île-de-France,1959-09-19 00:00:00.000000000,Français,,61.0,1.0,2.0
+66,David Toutain,David Toutain,Paris 7e,75 Paris,Île-de-France,,,,,,
+67,Joël Robuchon,L'Atelier de Joël Robuchon - Saint-Germain,Paris 7e,75 Paris,Île-de-France,1945-04-07 00:00:00.000000000,Français,"['2 étoiles au Guide Michelin', 'Gault et Millau', 'International Herald Tribune', 'Gault et Millau', 'Meilleur ouvrier de France', ""Officier de la Légion d'honneur""]",75.0,6.0,2.0
+68,Sylvestre Wahid,Sylvestre (Hôtel Thoumieux),Paris 7e,Paris,Île-de-France,1975-08-03 00:00:00.000000000,Français,,45.0,1.0,2.0
+69,Stéphanie Le Quellec,La Scène,Paris 8e,75 Paris,Île-de-France,1981-12-06 00:00:00.000000000,Français,,38.0,1.0,2.0
+70,Yannick Alléno,L'Abysse au Pavillon Ledoyen,Paris 8e,75 Paris,Île-de-France,1968-12-16 00:00:00.000000000,Français,"['3 étoiles au Guide Michelin', 'Mérite agricole', 'Ordre du Mérite', 'Arts et des Lettres']",51.0,4.0,3.0
+71,Joël Robuchon,L'Atelier de Joël Robuchon - Étoile,Paris 8e,75 Paris,Île-de-France,1945-04-07 00:00:00.000000000,Français,"['2 étoiles au Guide Michelin', 'Gault et Millau', 'International Herald Tribune', 'Gault et Millau', 'Meilleur ouvrier de France', ""Officier de la Légion d'honneur""]",75.0,6.0,2.0
+72,Christophe Pelé,Le Clarence,Paris 8e,75 Paris,Île-de-France,,,,,,
+73,Jérôme Banctel,Le Gabriel,Paris 8e,75 Paris,Île-de-France,,,,,,
+74,Jean-François Piège,Le Grand Restaurant,Paris 8e,75 Paris,Île-de-France,1970-09-25 00:00:00.000000000,Français,,50.0,1.0,2.0
+75,David Bizet,Le Taillevent,Paris 8e,75 Paris,Île-de-France,,,,,,
+76,Pascal Barbot,Astrance,Paris 16e,75 Paris,Île-de-France,1972-06-07 00:00:00.000000000,Français,,48.0,1.0,2.0
+77,Christophe Moret,L'Abeille,Paris 16e,75 Paris,Île-de-France,,,,,,
+78,Michel Rostang,Maison Rostang,Paris 17e,75 Paris,Île-de-France,,,,,,
+79,Jean-Luc Tartarin,Jean-Luc Tartarin,Le Havre,76 Seine-Maritime,Normandie,,,,,,
+80,Gilles Tournadre,Gill,Rouen,76 Seine-Maritime,Normandie,,,,,,
+81,Éric Canino,La Voile,Ramatuelle,83 Var,Provence-Alpes-Côte d'Azur,,,,,,
+82,Édouard Loubet,La Bastide de Capelongue,Bonnieux,84 Vaucluse,Provence-Alpes-Côte d'Azur,1970-09-25 00:00:00.000000000,Français,,50.0,1.0,2.0
+83,Alexandre Couillon,La Marine,Noirmoutier-en-l'Île,85 Vendée,Pays de la Loire,1975-12-01 00:00:00.000000000,Français,,44.0,1.0,2.0
+84,Jean-Michel Lorain,La Côte Saint Jacques,Joigny,89 Yonne,Bourgogne-Franche-Comté,1959-01-07 00:00:00.000000000,Français,,61.0,1.0,2.0
+85,Joël Robuchon,Joël Robuchon Monte-Carlo (Hôtel Métropole),Monte-Carlo,Monaco,Monaco,1945-04-07 00:00:00.000000000,Français,"['2 étoiles au Guide Michelin', 'Gault et Millau', 'International Herald Tribune', 'Gault et Millau', 'Meilleur ouvrier de France', ""Officier de la Légion d'honneur""]",75.0,6.0,2.0

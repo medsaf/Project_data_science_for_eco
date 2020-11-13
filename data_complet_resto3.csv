@@ -1,0 +1,30 @@
+,Année,Chef,Établissement,Localité,Département,Région,naissance,nationalité,distinction,age,nb_distinction,nb_star_chef
+0,1968,Michel Troisgros,Le Bois sans Feuilles,Ouches,42 Loire,Auvergne-Rhône-Alpes,1958-04-02,Français,,62.0,1.0,3.0
+1,1977,Michel Guérard,Les Prés d'Eugénie,Eugénie-les-Bains,40 Landes,Nouvelle-Aquitaine,1933-03-27,Français,,87.0,1.0,3.0
+2,1981,Georges Blanc,Georges Blanc,Vonnas,01 Ain,Auvergne-Rhône-Alpes,1943-01-02,Français,"['3 étoiles au Guide Michelin', '4 toques au Gault-Millau']",77.0,2.0,3.0
+3,1986,Bernard Pacaud,L'Ambroisie,Paris 4e,75 Paris,Île-de-France,1947-09-29,Français,['3 étoiles au Guide Michelin'],73.0,1.0,3.0
+4,1993,Pierre Gagnaire,Pierre Gagnaire,Paris 8e,75 Paris,Île-de-France,1950-04-09,Français,,70.0,1.0,3.0
+5,1996,Alain Passard,L'Arpège,Paris 7e,75 Paris,Île-de-France,1956-08-04,Français,"['Trois étoiles au Guide Michelin', '5 toques au Gault et Millau']",64.0,2.0,3.0
+6,2002,Guy Savoy,Guy Savoy,Paris 6e,75 Paris,Île-de-France,1953-07-24,Français,,67.0,1.0,3.0
+7,2003,Alain Ducasse,Le Louis XV - Alain Ducasse,Monte-Carlo,,Monaco,1956-09-13,Français,"['trois étoiles au Guide Michelin', 'Chevalier de la Légion d’honneur']",64.0,2.0,3.0
+8,2005,Régis Marcon,Régis et Jacques Marcon,Saint-Bonnet-le-Froid,43 Haute-Loire,Auvergne-Rhône-Alpes,1956-06-04,Français,,64.0,1.0,3.0
+9,2007,Frédéric Anton,Le Pré Catelan,Paris 16e,75 Paris,Île-de-France,1964-10-15,Français,"['3 étoiles au Guide Michelin', 'Meilleur Ouvrier de France']",56.0,2.0,3.0
+10,2007,Anne-Sophie Pic,Maison Pic,Valence,26 Drôme,Auvergne-Rhône-Alpes,1969-07-12,Français,,51.0,1.0,3.0
+11,2008,Gérald Passédat,Le Petit Nice,Marseille,13 Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,1960-03-24,Français,,60.0,1.0,3.0
+12,2009,Éric Frechon,Epicure au Bristol,Paris 8e,75 Paris,Île-de-France,1963-11-16,Français,"['3 étoiles au Guide Michelin', ""Chevalier de la Légion d'Honneur""]",57.0,2.0,3.0
+13,2010,Gilles Goujon,Auberge du Vieux Puits,Fontjoncouse,11 Aude,Occitanie,1961-12-10,Français,['Trois étoiles au Guide Michelin'],58.0,1.0,3.0
+14,2010,Éric Pras,Lameloise,Chagny,71 Saône-et-Loire,Bourgogne-Franche-Comté,1972-03-01,Français,['Meilleur ouvrier de France'],48.0,2.0,3.0
+15,2012,Emmanuel Renaut,Flocons de Sel,Megève,74 Haute-Savoie,Auvergne-Rhône-Alpes,1968-01-26,Français,"['Meilleur ouvrier de France', '2004', '3 étoiles Michelin', '2012']",52.0,4.0,3.0
+16,2013,Arnaud Donckele,La Vague d'Or,Saint-Tropez,83 Var,Provence-Alpes-Côte d'Azur,1977-03-29,Français,,43.0,1.0,3.0
+17,2014,Arnaud Lallement,L'Assiette Champenoise,Tinqueux,51 Marne,Grand Est,1974-06-28,Français,['3 étoiles au Guide Michelin'],46.0,1.0,3.0
+18,2015,Yannick Alléno,Ledoyen,Paris 8e,75 Paris,Île-de-France,1968-12-16,Français,"['3 étoiles au Guide Michelin', 'Mérite agricole', 'Ordre du Mérite', 'Arts et des Lettres']",51.0,4.0,3.0
+19,2015,René et Maxime Meilleur,La Bouitte,Saint-Martin-de-Belleville,73 Savoie,Auvergne-Rhône-Alpes,,,,,,
+20,2016,Alain Ducasse,Alain Ducasse au Plaza Athénée,Paris 8e,75 Paris,Île-de-France,1956-09-13,Français,"['trois étoiles au Guide Michelin', 'Chevalier de la Légion d’honneur']",64.0,2.0,3.0
+21,2016,Christian Le Squer,Le Cinq de l'Hôtel George-V,Paris 8e,75 Paris,Île-de-France,1962-09-30,Français,"['Trois étoiles au Guide Michelin', 'Gault et Millau']",58.0,2.0,3.0
+22,2017,Yannick Alléno,1947 au Cheval Blanc,Courchevel,73 Savoie,Auvergne-Rhône-Alpes,1968-12-16,Français,"['3 étoiles au Guide Michelin', 'Mérite agricole', 'Ordre du Mérite', 'Arts et des Lettres']",51.0,4.0,3.0
+23,2018,Christophe Bacquié,Hôtel du Castellet,Le Castellet,83 Var,Provence-Alpes-Côte d'Azur,,,,,,
+24,2019,Laurent Petit,Le Clos des sens,Annecy-le-Vieux,74 Haute-Savoie,Auvergne-Rhône-Alpes,1963-06-22,Français,,57.0,1.0,3.0
+25,2019,Mauro Colagreco,Mirazur,Menton,06 Alpes-Maritimes,Provence-Alpes-Côte d'Azur,1976-10-05,Argentin,,44.0,1.0,3.0
+26,2020,Christopher Coutanceau,Relais & Châteaux Christopher Coutanceau,La Rochelle,17 Charente-Maritime,Nouvelle-Aquitaine,1978-10-12,Français,,42.0,1.0,3.0
+27,2020,Kei Kobayashi,Kei,Paris 1er,75 Paris,Île-de-France,1977-08-29,Japonais,,43.0,1.0,3.0
+28,2020,Glenn Viel,L'Oustaù de Baumanière,Les Baux-de-Provence,13 Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,1980-01-02,Français,,40.0,1.0,3.0
